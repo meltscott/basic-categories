@@ -1,0 +1,16 @@
+category_dct = {
+    'pdp_queries_info' : {'room' : ['room', 'bedroom', 'bed'], 'reviews' : ['review'], 'parking' : ['parking'], 'photos' : ['photo'],  'check-in/out' : ['checkin', 'check-in', 'check in', 'check-out', 'check out', 'checkout'], 'nearby' : ['near', 'closest'], 'attractions' : ['places to eat', 'takeaways', 'cinemas', 'museum', 'stadium', 'supermarket']},
+
+    'pdp_commercial' : {'deals' : ['promotion', 'promo', 'deals', 'offers', 'discount'], 'price' : ['price', 'cost', 'fee', 'rates', 'under'], 'booking' : ['book'], 'stay' : ['stay'], 'cheap' : ['cheap', 'budget', 'bargain', 'inexpensive'], 'breakfast' : ['breakfast'], 'all-inclusive' : ['inclusive'], 'weddings' : ['wedding'], 'afternoon-tea' : ['tea'], 'airport-shuttle' : ['shuttle', 'taxi'], 'ferry' : ['ferries', 'ferry', 'boat'], 'pay-later' : ['pay'], 'time to stay' : ['time to stay', 'time to go', 'when to stay'], 'package' : ['dinner', 'with breakfast', 'flights', 'package'], 'escapes' : ['escape', 'getaway', 'holiday', 'short stay'], 'bed and breakfast' : ['bed and breakfast', 'b and b'], 'guest-house' : ['guest house']},
+
+    'pdp_contact' : {'address' : ['address'], 'email' : ['email', 'mail'], 'phone' : ['telephone', 'phone'], 'contact' : ['contact'], 'job' : ['job', 'career']},
+
+    'pdp_amenities' : {'spa' : ['spa', 'welness'], 'swimming pool' : ['pool'], 'restaurant' : ['restaurant', 'dinner', 'lunch'], 'casino' : ['casino'], 'gym' : ['gym', 'fitness'], 'wifi' : ['wifi'], 'room service' : ['room service'], 'tv' : ['tv']},
+
+    'time' : {'tonight' : ['tonight'], 'night' : ['night'], 'week_weekend' : ['midweek', 'weekly', 'weekend'], 'seasonal' : ['january', 'february', 'march', 'june', 'july', 'august', 'september', 'november', 'december', 'winter', 'summer', 'spring', 'autumn'], 'last-minute' : ['last minute'], 'events' : ['anniversary', 'birthday', 'halloween', 'easter', 'christmas', 'fathers day', 'new years', 'mothers day', 'oktoberfest', 'world cup', 'tennis']},
+
+    'informational' : {'how' : ['how'], 'what' : ['what'], 'where' : ['where'], 'when' : ['when'], 'why' : ['why'], 'can' : ['can'], 'things to do' : ['things to do'], 'will' : ['will'], 'which' : ['which'], 'have' : ['have'], 'should' : ['should'], 'was' : ['was'], 'do' : ['do'], 'is' : ['is'], 'could' : ['could'], 'would' : ['would'], 'advice' : ['advice'], 'tips' : ['tips'], 'history' : ['history'], 'weather' : ['weather'], 'good' : ['good', 'nice']},
+
+    'brands' : {'american airlines' : ['american airlines'], 'ryanir' : ['ryanir'], 'british airways' : ['ba', 'british airways'], 'easyjet' : ['easyjet'], 'thomas cook' : ['thomas cook'], 'tui' : ['tui'], 'atol' : ['atol'], 'abta' : ['abta'], 'social media' : ['facebook', 'instagram', 'twitter', 'tik tok', 'whatsapp'], 'jet2' : ['jet2'], 'first choice' : ['first choice'], 'enterprise' : ['enterprise'], 'avis' : ['avis'], 'alamo' : ['alamo'], 'hertz' : ['hertz'], 'martin lewis' : ['martin lewis'], 'tripadvisor' : ['tripadvisor'], 'expedia' : ['expedia'], 'google' : ['google'], 'travelzoo' : ['travel zoo', 'travelzoo'], 'groupon' : ['groupon', 'group on'], 'amazon' : ['amazon'], 'booking.com' : ['booking com', 'booking.com']},
+    
+    }
